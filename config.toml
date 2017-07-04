@@ -1,0 +1,24 @@
+baseURL = "https://www.sitecorethings.com/"
+languageCode = "en-us"
+title = "Sitecore Things"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/bmyers\">Ben Myers</a> 2017"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["cs"]
+
+[[params.social]]
+url = "https://github.com/bmyers"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/ben_myers"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
