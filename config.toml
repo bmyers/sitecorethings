@@ -1,11 +1,21 @@
 baseURL = "https://www.sitecorethings.com/"
 languageCode = "en-us"
 title = "Sitecore Things"
-theme = "hemingway"
+theme = "hucore"
 copyright = "&copy; <a href=\"https://github.com/bmyers\">Ben Myers</a> 2017"
-googleAnalytics = ""
+googleAnalytics = "UA-58826010-2"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
 
 [params]
+title = "Sitecore Things"
+description = "Sitecore blog braindump of cool things and issue resolution. A place to share findings and for me to remember how I've done things."
+keywords = ["Sitecore", "MVC"]
+author = "Ben Myers"
+sharingicons = true
+
 
 [params.highlight]
 style = "github"
