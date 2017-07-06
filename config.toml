@@ -1,4 +1,4 @@
-baseURL = "http://www.sitecorethings.com/"
+baseURL = "https://www.sitecorethings.com/"
 languageCode = "en-us"
 title = "Sitecore Things"
 theme = "hemingway"
