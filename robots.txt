@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /
-Sitemap: https://www.sitecorethings.com/sitemap.xml
