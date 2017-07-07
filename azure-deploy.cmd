@@ -18,3 +18,5 @@ popd
 cd D:\home\site\repository
 call D:\home\site\deployments\tools\hugo\bin\hugo -d D:\home\site\wwwroot
 echo Hugo build finished successfully.
+
+cp D:\home\site\repository\web.config D:\home\site\wwwroot\web.config
