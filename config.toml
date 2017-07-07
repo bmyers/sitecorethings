@@ -4,6 +4,7 @@ title = "Sitecore Things"
 theme = "hucore"
 copyright = "&copy; <a href=\"https://github.com/bmyers\">Ben Myers</a> 2017"
 googleAnalytics = "UA-58826010-2"
+disqusShortname = "sitecore-things"
 enableRobotsTXT = true
 
 [taxonomies]
