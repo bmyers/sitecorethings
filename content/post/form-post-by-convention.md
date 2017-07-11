@@ -3,6 +3,7 @@ title: "Form Post By Convention"
 date: 2017-07-06T22:40:41-05:00
 draft: false
 keywords: "Sitecore, MVC, Conventions"
+description: "Sitecore controller rendering action method convention based post when not using form helpers"
 tags: ["Sitecore MVC", "Conventions"]
 ---
 
