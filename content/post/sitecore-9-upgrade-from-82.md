@@ -1,7 +1,7 @@
 ---
 title: "Sitecore 9 Upgrade From 8.2"
 date: 2017-11-22T09:31:46-06:00
-draft: true
+draft: false
 keywords: ""
 description: "Upgrading Sitecore 8.2 to 9.0"
 tags: ["Sitecore", "Upgrade", "9.0"]
