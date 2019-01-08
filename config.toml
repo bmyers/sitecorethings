@@ -26,14 +26,17 @@ languages = ["cs"]
 [[params.social]]
 url = "https://github.com/bmyers"
 fa_icon = "fa-github"
+name = "GitHub"
 
 [[params.social]]
 url = "https://twitter.com/ben_myers"
 fa_icon = "fa-twitter"
+name = "Twitter"
 
 [[params.social]]
 url = "/index.xml"
 fa_icon = "fa-rss"
+name = "RSS"
 
 
 [privacy]
