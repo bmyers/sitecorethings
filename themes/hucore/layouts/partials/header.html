@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ if eq .IsHome true }}<meta content="{{ delimit .Site.Params.Keywords ", " }}" name="keywords">{{ else }}<meta content="{{ delimit .Keywords ", " }}" name="keywords">{{ end }}
 <meta content="{{ .Site.Params.Author }}" name="author">
+<meta name="description" content="{{ .Site.Params.Description }}">
 <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 {{ if eq .IsHome true }}<meta property="og:description" content="{{ .Site.Params.Description }}">{{ else }}<meta property="og:description" content="{{ .Description }}">{{ end }}
